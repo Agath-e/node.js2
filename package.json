@@ -1,0 +1,14 @@
+{
+  "name": "node.je2",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "repository": "https://github.com/Agath-e/node.je2",
+  "author": "Agata Pacholczyk",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
